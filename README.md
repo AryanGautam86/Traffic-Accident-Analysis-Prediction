@@ -1,6 +1,6 @@
 # Traffic-Accident-Analysis-Prediction
 
-<b>**About the Project**
+<b>#**About the Project**
 
 This project analyzes traffic accident data collected from the City of Los Angeles Open Data Portal. It includes:
 - Exploratory Data Analysis (EDA)
@@ -10,7 +10,7 @@ This project analyzes traffic accident data collected from the City of Los Angel
   
 The goal is to aid urban planning, traffic safety improvement, and predictive resource deployment.
 
-<b>**Features**
+<b>#**Features**
 
 - Analyze accident distribution by:
   - Time (hour, day, month)
