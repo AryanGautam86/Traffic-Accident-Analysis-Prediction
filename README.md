@@ -1,5 +1,5 @@
 # Traffic-Accident-Analysis-Prediction
-
+# precision=Accuracy 94% And Precision 90%
 <b>#**About the Project**
 
 This project analyzes traffic accident data collected from the City of Los Angeles Open Data Portal. It includes:
