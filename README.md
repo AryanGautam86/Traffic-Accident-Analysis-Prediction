@@ -1,5 +1,5 @@
 # Traffic-Accident-Analysis-Prediction
-# Accuracy= 94% And Precision= 90%
+# Accuracy= 94%, Precision= 90%, F1= 93.6 and Recall= 97.7
 <b>#**About the Project**
 
 This project analyzes traffic accident data collected from the City of Los Angeles Open Data Portal. It includes:
