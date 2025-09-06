@@ -25,3 +25,4 @@ def predict(data: Taap_acc):
     return {"prediction": int(prediction[0])}
 # if __name__ == '__main__':
 #     uvicorn.run(taap_app, host='127.0.0.1', port=8000,reload=True)
+# uvicorn taap_app:taap_app --reload
