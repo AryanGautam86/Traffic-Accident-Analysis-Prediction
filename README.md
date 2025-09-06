@@ -1,7 +1,7 @@
 # Traffic-Accident-Analysis-Prediction
 # Accuracy= 94%, Precision= 90%, F1= 93.6 and Recall= 97.7
 <b>#**About the Project**
-
+# Deployement Using FastAPI
 This project analyzes traffic accident data collected from the City of Los Angeles Open Data Portal. It includes:
 - Exploratory Data Analysis (EDA)
 - Geospatial Visualization with GeoPandas
