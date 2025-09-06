@@ -1,4 +1,4 @@
-# main.py
+
 import uvicorn
 from fastapi import FastAPI
 from Taap_accident import Taap_acc
